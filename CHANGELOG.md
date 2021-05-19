@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.3.1...v1.4.0) (2021-05-19)
+
+
+### Features
+
+* add contrib doc ([1d82116](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/1d821167691c8c23946cf2bc3a9701937f48d655))
+
 ## [1.3.1](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.3.0...v1.3.1) (2021-05-19)
 
 
