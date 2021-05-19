@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.4.1...v1.5.0) (2021-05-19)
+
+
+### Features
+
+* add issue templates ([9b348d0](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/9b348d0f0bde6f38d62e92dc613a3e20c6b66f1f))
+
 ## [1.4.1](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.4.0...v1.4.1) (2021-05-19)
 
 
