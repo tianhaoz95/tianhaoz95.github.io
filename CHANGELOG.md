@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.1.0...v1.1.1) (2021-05-19)
+
+
+### Bug Fixes
+
+* remove extra docs ([af6d32b](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/af6d32bf573f325b6f204405a51022d37456c275))
+
 # [1.1.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.0.0...v1.1.0) (2021-05-19)
 
 
