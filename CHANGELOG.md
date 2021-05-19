@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.2.0...v1.3.0) (2021-05-19)
+
+
+### Features
+
+* add code scanning ([5e38822](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/5e38822263c36995e51955acb5508015b40c9fde))
+
 # [1.2.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.1.1...v1.2.0) (2021-05-19)
 
 
