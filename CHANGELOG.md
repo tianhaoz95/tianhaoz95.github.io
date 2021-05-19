@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.0.0...v1.1.0) (2021-05-19)
+
+
+### Features
+
+* add security policy draft ([a3f24a6](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/a3f24a648a588e8137401aaec07c439b03a1379b))
+
 # 1.0.0 (2021-05-19)
 
 
