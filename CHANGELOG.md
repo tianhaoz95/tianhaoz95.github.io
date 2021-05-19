@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.1.1...v1.2.0) (2021-05-19)
+
+
+### Features
+
+* add vscode config ([f05eb2d](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/f05eb2d09b1e06f11d936e0121b74e1c2fdb69aa))
+
 ## [1.1.1](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.1.0...v1.1.1) (2021-05-19)
 
 
