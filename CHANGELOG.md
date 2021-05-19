@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.3.0...v1.3.1) (2021-05-19)
+
+
+### Bug Fixes
+
+* add code of conduct ([ec5bfa4](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/ec5bfa4eafaada2e55e9cea25e236a3d69edcd01))
+
 # [1.3.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.2.0...v1.3.0) (2021-05-19)
 
 
