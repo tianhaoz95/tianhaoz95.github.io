@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.4.0...v1.4.1) (2021-05-19)
+
+
+### Bug Fixes
+
+* add MIT license ([70793b5](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/70793b52c13841a32594aec1d2449efa97d64bfd))
+
 # [1.4.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.3.1...v1.4.0) (2021-05-19)
 
 
