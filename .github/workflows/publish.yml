@@ -15,6 +15,7 @@ jobs:
           USE_SSH: false
           GIT_USER: tianhaoz95
           GIT_PASS: ${{ secrets.GITHUB_TOKEN }}
+          DEPLOYMENT_BRANCH: gh-pages
         run: |
           git config --global user.email "tianhaoz@umich.edu"
           git config --global user.name "tianhaoz95"
