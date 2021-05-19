@@ -11,6 +11,8 @@ jobs:
         with:
           node-version: "14.x"
       - run: npm ci && npm run release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Release to GitHub Pages
         env:
           USE_SSH: false
