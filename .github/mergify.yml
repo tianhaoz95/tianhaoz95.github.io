@@ -2,16 +2,17 @@ pull_request_rules:
   - name: auto merge for Dependabot
     conditions:
       - author~=^dependabot\[bot\]$
-      - check-success=run-test
-      - check-success=auto-approve
+      - check-success=build-pages
     actions:
       merge:
         method: squash
   - name: auto merge for @tianhaoz95
     conditions:
       - author~=^tianhaoz95$
-      - check-success=run-test
-      - check-success=auto-approve
+      - check-success=build-pages
+      - check-success=task-list-completed
+      - check-success=WIP
+      - check-success=Semantic Pull Request
     actions:
       merge:
         method: squash
