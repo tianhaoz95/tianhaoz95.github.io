@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Tianhao Zhou',
+  title: 'Tianhao Zhou 🚀🚀🚀',
   tagline: 'GitHub profile ¯\\_(ツ)_/¯',
   url: 'https://tianhaoz95.github.io',
   baseUrl: '/',
@@ -19,13 +19,13 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'about_me',
           position: 'left',
-          label: 'Tutorial',
+          label: 'About Me',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/tianhaoz95/tianhaoz95.github.io',
           label: 'GitHub',
           position: 'right',
         },
