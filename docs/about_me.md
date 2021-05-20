@@ -7,6 +7,7 @@ sidebar_position: 1
 ```python
 class TianhaoZhou:
   def __init__(self):
+    self.name = "Tianhao Zhou"
     self.email_address = "jacksonzhou666@gmail.com"
     self.medium_profile = "https://medium.com/@tianhaozhou"
     self.hobbies = [
