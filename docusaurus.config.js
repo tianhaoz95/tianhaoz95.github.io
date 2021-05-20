@@ -1,20 +1,20 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Tianhao Zhou',
+  tagline: 'GitHub profile ¯\\_(ツ)_/¯',
   url: 'https://tianhaoz95.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon/monhchi.ico',
   organizationName: 'tianhaoz95',
   projectName: 'tianhaoz95.github.io',
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'GitHub Profile by @tianhaoz95',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Avatar @tianhaoz95',
+        src: 'img/avatar/01.png',
       },
       items: [
         {
