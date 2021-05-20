@@ -1,3 +1,10 @@
+## [1.6.5](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.4...v1.6.5) (2021-05-20)
+
+
+### Bug Fixes
+
+* adding funding placeholder ([e7b011d](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/e7b011ddc71f5796ca5d0418ecba6b070bbfc45f))
+
 ## [1.6.4](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.3...v1.6.4) (2021-05-20)
 
 
