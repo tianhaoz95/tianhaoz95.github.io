@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.0...v1.6.1) (2021-05-20)
+
+
+### Bug Fixes
+
+* broken footer link ([c8fc1fd](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/c8fc1fde01b0baf8a1fa3263792f07fca1b948ec))
+
 # [1.6.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.5.1...v1.6.0) (2021-05-20)
 
 
