@@ -1,3 +1,10 @@
+## [1.6.2](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.1...v1.6.2) (2021-05-20)
+
+
+### Bug Fixes
+
+* outdated link ([185eecd](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/185eecdaf97c8a99e6ff54f469cb19a5397073f8))
+
 ## [1.6.1](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.0...v1.6.1) (2021-05-20)
 
 
