@@ -1,7 +1,15 @@
 pull_request_rules:
-  - name: automatic merge for Dependabot pull requests
+  - name: auto merge for Dependabot
     conditions:
       - author~=^dependabot\[bot\]$
+      - check-success=run-test
+      - check-success=auto-approve
+    actions:
+      merge:
+        method: squash
+  - name: auto merge for @tianhaoz95
+    conditions:
+      - author~=^tianhaoz95$
       - check-success=run-test
       - check-success=auto-approve
     actions:
