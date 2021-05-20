@@ -1,3 +1,11 @@
+## [1.6.11](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.10...v1.6.11) (2021-05-20)
+
+
+### Bug Fixes
+
+* conditions ([b872150](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/b87215081f1671c706ff74dea8c4ee59cb286f31))
+* incorrect checks ([a9fca3b](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/a9fca3bd4cd7effb0168d7646009e508bfc541cc))
+
 ## [1.6.10](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.9...v1.6.10) (2021-05-20)
 
 
