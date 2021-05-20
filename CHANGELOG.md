@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.5.1...v1.6.0) (2021-05-20)
+
+
+### Features
+
+* add about me skeleton ([3198de7](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/3198de72f5283cced5484bb8a561894c18ed55d2))
+
 ## [1.5.1](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.5.0...v1.5.1) (2021-05-20)
 
 
