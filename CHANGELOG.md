@@ -1,3 +1,10 @@
+## [1.6.10](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.9...v1.6.10) (2021-05-20)
+
+
+### Bug Fixes
+
+* add build test ([151df79](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/151df79b738dc96b06ccc6862a49aaa8ac22edc8))
+
 ## [1.6.9](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.8...v1.6.9) (2021-05-20)
 
 
