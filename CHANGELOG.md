@@ -1,3 +1,10 @@
+## [1.6.8](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.7...v1.6.8) (2021-05-20)
+
+
+### Bug Fixes
+
+* add auto merge for myself ([8a22e4b](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/8a22e4b9f51d2b80d2ebe570ef7c45fb7d124915))
+
 ## [1.6.7](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.6...v1.6.7) (2021-05-20)
 
 
