@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.5.0...v1.5.1) (2021-05-20)
+
+
+### Bug Fixes
+
+* add some branding content ([22f794f](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/22f794fac777f56c880d80a6234508527236dadb))
+
 # [1.5.0](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.4.1...v1.5.0) (2021-05-19)
 
 
