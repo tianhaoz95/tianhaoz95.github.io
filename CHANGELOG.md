@@ -1,3 +1,10 @@
+## [1.6.6](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.5...v1.6.6) (2021-05-20)
+
+
+### Bug Fixes
+
+* add pr template ([fa8d89e](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/fa8d89eeac7e234efa0a8669bea340fd5b2b7281))
+
 ## [1.6.5](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.4...v1.6.5) (2021-05-20)
 
 
