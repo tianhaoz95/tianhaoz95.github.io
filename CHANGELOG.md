@@ -1,3 +1,10 @@
+## [1.6.9](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.8...v1.6.9) (2021-05-20)
+
+
+### Bug Fixes
+
+* add name ([8c545fb](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/8c545fb0b426db0d3b3ed63de2e59fce0ae8b1f6))
+
 ## [1.6.8](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.7...v1.6.8) (2021-05-20)
 
 
