@@ -1,3 +1,10 @@
+## [1.6.7](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.6...v1.6.7) (2021-05-20)
+
+
+### Bug Fixes
+
+* edit link ([b84eb39](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/b84eb390088c038e04a35c6e39a4d788f404a4e9))
+
 ## [1.6.6](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.5...v1.6.6) (2021-05-20)
 
 
