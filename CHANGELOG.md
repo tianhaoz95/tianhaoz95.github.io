@@ -1,3 +1,10 @@
+## [1.6.12](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.11...v1.6.12) (2021-05-21)
+
+
+### Bug Fixes
+
+* update npm lock file ([88593e9](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/88593e97604c53952f394192851d134f2269b552))
+
 ## [1.6.11](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.10...v1.6.11) (2021-05-20)
 
 
