@@ -1,3 +1,10 @@
+## [1.6.13](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.12...v1.6.13) (2021-07-09)
+
+
+### Bug Fixes
+
+* update both deps at once ([#12](https://github.com/tianhaoz95/tianhaoz95.github.io/issues/12)) ([21a3bf8](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/21a3bf8e6a7152d1a657840ef4eca22efeb928c3))
+
 ## [1.6.12](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.11...v1.6.12) (2021-05-21)
 
 
