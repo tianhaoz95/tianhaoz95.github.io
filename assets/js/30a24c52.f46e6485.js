@@ -1,0 +1,1 @@
+(self.webpackChunktianhaoz_95_github_io=self.webpackChunktianhaoz_95_github_io||[]).push([[453],{516:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/hello","name":"hello","count":2,"permalink":"/blog/tags/hello"}')}}]);

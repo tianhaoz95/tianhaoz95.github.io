@@ -1,0 +1,1 @@
+(self.webpackChunktianhaoz_95_github_io=self.webpackChunktianhaoz_95_github_io||[]).push([[205],{7671:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/docusaurus","name":"docusaurus","count":3,"permalink":"/blog/tags/docusaurus"}')}}]);
