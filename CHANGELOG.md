@@ -1,3 +1,10 @@
+## [1.6.14](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.13...v1.6.14) (2021-12-16)
+
+
+### Bug Fixes
+
+* make lifted to fit network drive development ([b384348](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/b3843487c1cea422b6046b7b3d75b3a33209ba3e))
+
 ## [1.6.13](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.12...v1.6.13) (2021-07-09)
 
 
