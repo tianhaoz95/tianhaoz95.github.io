@@ -1,6 +1,6 @@
 {
   "name": "tianhaoz-95-github-io",
-  "version": "1.6.14",
+  "version": "1.6.15",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",

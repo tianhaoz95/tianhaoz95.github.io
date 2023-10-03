@@ -1,3 +1,10 @@
+## [1.6.15](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.14...v1.6.15) (2023-10-03)
+
+
+### Bug Fixes
+
+* upgrade node version ([#171](https://github.com/tianhaoz95/tianhaoz95.github.io/issues/171)) ([2957ecc](https://github.com/tianhaoz95/tianhaoz95.github.io/commit/2957ecc7f320f8ed904773228cc9b9bdb9b6c232))
+
 ## [1.6.14](https://github.com/tianhaoz95/tianhaoz95.github.io/compare/v1.6.13...v1.6.14) (2021-12-16)
 
 
