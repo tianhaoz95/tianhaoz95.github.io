@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktianhaoz_95_github_io=self.webpackChunktianhaoz_95_github_io||[]).push([[991],{9775:o=>{o.exports=JSON.parse('{"permalink":"/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
